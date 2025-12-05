@@ -12,7 +12,6 @@
 
 from os import path,makedirs
 import numpy as np
-from scipy import ndimage
 from matplotlib import pyplot
 import png
 import threading
